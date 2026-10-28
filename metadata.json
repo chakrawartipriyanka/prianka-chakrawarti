@@ -1,0 +1,6 @@
+{
+  "name": "BugForge - Interactive Code Debugging Lab",
+  "description": "An interactive code debugging assignment workbench with real-time test runner, step execution tracer, diff viewer, and challenge authoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
